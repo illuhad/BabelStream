@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+### Changed
+- Removed std-data/std-indices memory management workaround for AdaptiveCpp
+
 ## [v5.0] - 2023-10-12
 ### Added
 - Ability to build Kokkos and RAJA versions against existing packages.
